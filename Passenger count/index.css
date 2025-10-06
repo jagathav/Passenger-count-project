@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://admin.skodagroup.com/wp-content/uploads/2023/04/WTN0153-scaled-1024x683.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn{
+    background: rgb(3, 3, 0);
+}
+
+#save-btn{
+    color: black;
+    background: greenyellow;
+}
+
+#display-container{
+    margin: auto;
+    background-color: black;
+     border-radius: 25px;
+  background-color: #030303;
+   border-radius: 25px;
+  background-color: #040404;
+  padding: 20px;
+  width: 200px;
+}
+  
